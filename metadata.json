@@ -1,0 +1,8 @@
+{
+  "name": "MirrorAI Learning Engine",
+  "description": "An intelligent adaptive learning system for content creators that analyzes performance data to provide personalized recommendations and a 'Performance DNA' profile.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
